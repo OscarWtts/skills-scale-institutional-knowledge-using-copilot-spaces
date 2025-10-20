@@ -18,6 +18,8 @@ Quality assurance and continuous improvement are built into every stage. Automat
 - <a href="octoacme-release-and-deployment.md">Release &amp; Deployment</a>
 - <a href="octoacme-retrospective-and-continuous-improvement.md">Retrospective &amp; Continuous Improvement</a>
 - <a href="octoacme-roles-and-personas.md">Roles &amp; Personas</a>
+- <a href="octoacme-role-interaction-matrix.md">Role Interaction Matrix</a>
+- <a href="octoacme-handoff-checklists.md">Handoff Checklists</a>
 
 ## How to use and contribute
 - Keep the Project One-pager and key artifacts updated in the project repo.
