@@ -15,13 +15,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- **DevOps ownership**: DevOps Engineers own CI/CD pipeline configuration, deployment automation, and infrastructure reliability
+- **UX and QA collaboration**: UX Designers collaborate with QA on accessibility and usability checks before release (see [Handoff Checklists](octoacme-handoff-checklists.md))
 
 ## Quality & Testing
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (coordinated by Security Lead)
 - Manual QA for feature acceptance when needed
+- **Security Lead responsibilities**: Manage vulnerability scanning, conduct security reviews, and coordinate incident response paths
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +41,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Key handoffs planned using [Handoff Checklists](octoacme-handoff-checklists.md)
+- [ ] Role assignments confirmed per [Role Interaction Matrix](octoacme-role-interaction-matrix.md)
+- [ ] DevOps Engineer assigned for CI/CD and infrastructure
+- [ ] Security Lead engaged for security reviews
+- [ ] UX Designer and QA coordinating on accessibility validation
