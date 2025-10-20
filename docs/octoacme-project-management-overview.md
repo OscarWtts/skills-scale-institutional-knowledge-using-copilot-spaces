@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Supporting Roles
+Additional specialized roles contribute to project success at key phases:
+- **UX Designer**: Creates user-centered designs, conducts research, validates usability and accessibility.
+- **DevOps Engineer**: Manages infrastructure, CI/CD pipelines, deployments, and system reliability.
+- **Security Lead**: Conducts security reviews, manages vulnerabilities, and coordinates incident response.
+- **Customer Success Manager**: Ensures customer satisfaction, manages escalations, and gathers feedback.
+- **Data Analyst**: Defines metrics, builds dashboards, and provides data-driven insights.
+
+For detailed responsibilities and interaction patterns, see [Roles & Personas](octoacme-roles-and-personas.md), [Role Interaction Matrix](octoacme-role-interaction-matrix.md), and [Handoff Checklists](octoacme-handoff-checklists.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
